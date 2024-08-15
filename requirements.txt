@@ -1,0 +1,9 @@
+psycopg2
+asyncpg
+langchain
+langchain_openai
+langchain_experimental
+langchain-community
+streamlit
+matplotlib
+numpy
