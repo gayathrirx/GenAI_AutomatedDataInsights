@@ -1,5 +1,7 @@
 # Automated Data Insights Using LLM
 
+# Hosted in Hugging Face - https://huggingface.co/spaces/gaamaa/AutomatedDataInsightsUsingAIAgents
+
 ## Objectives
 * Build natural language to insights system without writing SQL
 * Build csv to SQL data pipeline and uses LangChain Toolkit to connect to DB
